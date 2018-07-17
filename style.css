@@ -1,0 +1,29 @@
+* {
+  font-family: Calibri, sans-serif;
+}
+
+fieldset {
+  vertical-align: center;
+  height: 550px;
+  margin: 35px 25px 0px 25px;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #C6C6C6FF;
+  border-color: #707070FF;
+  border-width: 1px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 120px;
+  font-weight: bold;
+  margin-top: 100px;
+  color: #E0E0E0FF;
+}
+
+p {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 200px;
+}
